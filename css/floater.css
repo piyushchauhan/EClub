@@ -1,0 +1,33 @@
+#floater{
+	position: fixed;
+	z-index: 100;
+	width: 3.1%;
+	height: auto;
+	background-color: black;
+	opacity:.5;
+	top:37%;
+   
+	transition: .5s ease-out;
+}
+
+#floater:hover{
+	 left:.6%;
+	opacity: 1;
+	box-shadow: 2px 2px 5px black;
+    transform: Scale(1.2,1.2);
+	
+}
+#floater ul{
+	list-style: none;
+	text-align: center;
+}
+#floater ul li{
+	width: auto;
+	height: auto;
+
+}
+.floater_img:hover {
+	transform: scale(1.2,1.2);
+    
+	
+}
