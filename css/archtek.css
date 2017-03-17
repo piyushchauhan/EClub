@@ -1279,7 +1279,7 @@ span.sf-sub-indicator {
 
 .blog-item:hover{
 
- transform: scale(1.1,1.1);
+ transform: scale(1.03,1.03);
 box-shadow: 5px 5px 20px black;
 }
 
