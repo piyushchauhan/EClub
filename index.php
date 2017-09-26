@@ -32,6 +32,20 @@
         <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
+        <style>
+            
+            #onhover
+            {
+                   transition: .5s; 
+                
+            }
+            
+            #onhover:hover{
+                
+                box-shadow: 5px 5px 20px black;
+                transform: scale(1.01,1.01);
+            
+        }</style>
     </head>
 
     <body>
@@ -211,9 +225,6 @@
                         to learn from each other and from the experiences of people who have undertaken this journey in the past.
                         </p>
                         <br/>
-                        <p id="showEvents" style="background:white; height:171px; float:right; width:100%; padding-left:10px; font-family:Calibri; padding-right:10px; text-align:justify">
-                            No Events in this period
-                        </p>
              </div>
                     
             
@@ -265,44 +276,59 @@
             </div>
 
             <!-- Blog -->
-            <div class="row top-margin">
-                <div class="large-12 columns bottom-line">
-                    <h3 class="no-margin">News Update.</h3>
-                    <!--<a href="blog-list.html" class="bottom-right angle flat button">View all news<span class="angle"><i class="icon-angle-right"></i></span></a>-->
+
+            <div class="row">
+                <div class="right-border row">
+                    <div class="large-12 columns">
+                        <div class="bottom-line">
+                            <h2 class="blog-title">Workshop on Commercializing Technology Innovations</h2>
+                            
+
+                        </div>
+                        <div style="padding-top:10px">
+                            <p><b>25th September 2017</b></p>
+                        </div>
+                        <div>
+                            <div style="float:left;margin-right:20px">
+                            <img  src="images/DSCN0863.jpg" alt=""  width="350px" height="350px"/>
+                            </div>
+                            <p>
+                                Dr. Prashant Jha, who serves as the Fellowship Director of Medical Device Innovation Program at AIIMS and IIT Delhi conducted the workshop. Dr Jha is a multidisciplinary expert who trains physicians, engineers, designers and entrepreneurs in the art  and science of innovating and commercialising low-cost, high-impact medical devices. He also serves as visiting faculty in several Medical, Engineering and Business Schools in India, Australia, Finland, Japan, UK and USA. He shared his experiences in setting up over a dozen enterprise over last 20 years and discussed the key lessons learnt on the way. He talked the participants through the steps involved in bringing an idea to market & building a sustainable  enterprises.While giving the vote of thanks, Entrepreneurship club coordinator, Piyush, said that we aim to foster the entrepreneurship spirit among the students in the field of startup.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="blog-item no-border large-12 columns for-nested">
+            <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
-                            <div class="blog-meta">
-                                <span class="date">Mar 23, 2017</span>
+                            <div class="bottom-line">
+                            <h2 class="blog-title">E-Week 2017</h2>
                             </div>
-                            <hr />
-                            <h4 class="blog-title">E-Week 2017</h4>
-                            <p class="excerpt"><b><font size="4">&nbsp&nbsp
+                            <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
 																"An entrepreneur is an innovator, a job creator, a business leader and
-								someone who is his own boss".<br/><br/></b></font>E-Week events have always been an exciting 
+								someone who is his own boss".<br/></b></font>
+                            </p>
+                            <p>
+                                E-Week events have always been an exciting 
 								simulation of real business world scenarios. 
 								It has always been great fun to be a part of both as participants and spectators.
 								E-Week 17 has modified and rebooted the set of events we used to have.
 								Here we present to you , the new and improved events for E-Week 2017.
 								<br>
-							<a href="http://entrepreneurshipclub.org/eweek.html">Visit here </a>
+							
                             </p>
+                            </div>
+                                <!--
+                                <div class="row">
+                                    <div class="large-offset-3 large-6 columns height-255">
+                                        <img src="images/events/eweek.jpg" alt=""  />
+                                    </div>
+                                </div>-->
+                            </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="large-offset-3 large-6 columns height-255">
-                            <img src="images/events/eweek.jpg" alt=""  />
-                        </div>
-                    </div>
-                </div>
-                
             </div>
-
-        </div>
-    </div>
     </div>
     </div>
     </div>
