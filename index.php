@@ -79,31 +79,31 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#" class="active">Events</a><!--goto the list page of all events-->	
+                        <a href="#" class="active">Events</a><!--goto the list page of all events-->    
                         <ul>
                            
                             <li>
                                 <a href="celesta.html">Celesta</a>
                             </li>
-							
-							<li>
-								<a href="others.html">Entrepreneurs Week</a>
-							</li>
+                            
+                            <li>
+                                <a href="others.html">Entrepreneurs Week</a>
+                            </li>
                         </ul>
                     </li>
-					<li>
+                    <li>
                         <a href="icenter.html">Innovation Center</a>
                     </li>
                     <li>
                         <a href="gallery.html">Gallery</a>
-						<ul>
+                        <ul>
                            
-							<li>
-								<a href="Gallery.html">E-Club Gallery</a>
-							</li>
-							<li>
-								<a href="e-week-gallery.html">E-Week Gallery</a>
-							</li>
+                            <li>
+                                <a href="Gallery.html">E-Club Gallery</a>
+                            </li>
+                            <li>
+                                <a href="e-week-gallery.html">E-Week Gallery</a>
+                            </li>
                         </ul>
                     </li>
                     <li>
@@ -112,7 +112,7 @@
                     <li>
                         <a href="http://eclubiitp.blogspot.in">Blog</a>
                     </li>
-					<li>
+                    <li>
                         <a href="media.html">Media</a>
                     </li>
                 </ul>
@@ -156,7 +156,7 @@
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Lecture by Ministry of MSME</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
-							Awareness Programme on Development of SMEs through Incubators
+                            Awareness Programme on Development of SMEs through Incubators
                         </p>
                     </div>
                 </div>
@@ -169,9 +169,9 @@
                         </p>
                     </div>
                 </div>
-				<div class="home-slider-item">
+                <div class="home-slider-item">
                     <img src="images/img/img8.jpg" alt="Slide 3" />
-					<div class="slider-caption">
+                    <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Chiraag Kapil</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                             Guest Lecture at IIT Patna
@@ -180,23 +180,23 @@
                 </div>
                 <div class="home-slider-item">
                     <img src="images/img/img6.2.jpg" alt="Slide 3" />
-					<div class="slider-caption">
+                    <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Mathew Jose ,CEO & Founder Paperman</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                             E-Week 2016
                         </p>
                     </div>
                 </div>
-				<div class="home-slider-item">
+                <div class="home-slider-item">
                     <img src="images/img/img9.jpg" alt="Slide 3" />
-					<div class="slider-caption">
+                    <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Vikram Rastogi</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                              Founder Hackerlab.in
                         </p>
                     </div>
                 </div>
-				
+                
             </div>
             <div id="slider-controller" class="content-width">
                 <a href="#" id="slider-prev"><i class="icon-angle-left"></i></a>
@@ -213,11 +213,11 @@
             <div style="display:block; padding-top:10%;">
              
                     
-					<p style=" font-size: 300%; text-align:center;">
-					Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
-					</p>
-					<br>
-					<br>
+                    <p style=" font-size: 300%; text-align:center;">
+                    Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
+                    </p>
+                    <br>
+                    <br>
                         <p style="font-size:120%;">
                         We, at the <b>Entrepreneurship Club</b>, shall strive to educate ourselves about the nuances involved in
                         entrepreneurship and business in order to prepare ourselves for undertaking the journey from the genesis of
@@ -306,17 +306,17 @@
                             <h2 class="blog-title">E-Week 2017</h2>
                             </div>
                             <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
-																"An entrepreneur is an innovator, a job creator, a business leader and
-								someone who is his own boss".<br/></b></font>
+                                                                "An entrepreneur is an innovator, a job creator, a business leader and
+                                someone who is his own boss".<br/></b></font>
                             </p>
                             <p>
                                 E-Week events have always been an exciting 
-								simulation of real business world scenarios. 
-								It has always been great fun to be a part of both as participants and spectators.
-								E-Week 17 has modified and rebooted the set of events we used to have.
-								Here we present to you , the new and improved events for E-Week 2017.
-								<br>
-							
+                                simulation of real business world scenarios. 
+                                It has always been great fun to be a part of both as participants and spectators.
+                                E-Week 17 has modified and rebooted the set of events we used to have.
+                                Here we present to you , the new and improved events for E-Week 2017.
+                                <br>
+                            
                             </p>
                             </div>
                                 <!--
@@ -348,9 +348,9 @@
                         <h5>Contact Us</h5>
                         <p>
                             Indian Institute of Technology,<br/>
-							Bihta - 801103,<br/>
-							Patna<br/>
-							Bihar.
+                            Bihta - 801103,<br/>
+                            Patna<br/>
+                            Bihar.
                         </p>
                         <ul>
                             <li>
@@ -364,9 +364,9 @@
                     <div class="large-4 columns less-padding">
                         <h5>Join Us.</h5>
                         <p>
-							"The value of an idea lies in the using of it."<br/><br/>
+                            "The value of an idea lies in the using of it."<br/><br/>
                             If you share the same zeal and are passionate about achieving your vision
-							join us in our efforts to help others achieve the same.
+                            join us in our efforts to help others achieve the same.
                         </p>
                        
                     </div>
@@ -379,7 +379,7 @@
             <div id="footer-bar-inner-wrapper" class="content-width">
                 <div class="large-6 columns less-padding">
                     2017 &copy; E-Club IIT Patna
-					<a href="#content-container"><p style="text-align: right; color:green;">Back To Top </p></a>
+                    <a href="#content-container"><p style="text-align: right; color:green;">Back To Top </p></a>
                 </div>
                 <div class="large-6 columns less-padding">
                     <div id="footer-social">

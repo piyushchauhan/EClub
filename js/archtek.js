@@ -528,7 +528,7 @@ jQuery(document).ready(function($) {
     
     
     // Testimonial Slider
-	
+    
     if($('.testimonial-list').length > 0) {
         var testimonialList = $('.testimonial-list');
         testimonialList.each(function() {
