@@ -286,7 +286,7 @@
 
                         </div>
                         <div style="padding-top:10px">
-                            <p><b>25th September 2017</b></p>
+                            <p><b>24th September 2017</b></p>
                         </div>
                         <div>
                             <div style="float:left;margin-right:20px">
@@ -354,7 +354,7 @@
                         </p>
                         <ul>
                             <li>
-                                Mobile: +91-9631089254
+                                Mobile: +91-9792097500
                             </li>
                             <li>
                                 Email: <a href="#">entrepreneurship@iitp.ac.in</a>
