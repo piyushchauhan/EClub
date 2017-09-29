@@ -299,6 +299,12 @@ div#small-dialog1 , div#small-dialog2 , div#small-dialog3 , div#small-dialog4 , 
 }
 
 @media(max-width:480px){
+
+	.about_eclub
+	{
+		padding-top: 30%;
+	}
+
 	.caption {
 	width: 95%;
 }
