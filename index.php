@@ -65,31 +65,31 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#" class="active">Events</a><!--goto the list page of all events-->    
+                        <a href="#" class="active">Events</a><!--goto the list page of all events-->	
                         <ul>
                            
                             <li>
                                 <a href="celesta.html">Celesta</a>
                             </li>
-                            
-                            <li>
-                                <a href="others.html">Entrepreneurs Week</a>
-                            </li>
+							
+							<li>
+								<a href="others.html">Entrepreneurs Week</a>
+							</li>
                         </ul>
                     </li>
-                    <li>
+					<li>
                         <a href="icenter.html">Innovation Center</a>
                     </li>
                     <li>
                         <a href="gallery.html">Gallery</a>
-                        <ul>
+						<ul>
                            
-                            <li>
-                                <a href="Gallery.html">E-Club Gallery</a>
-                            </li>
-                            <li>
-                                <a href="e-week-gallery.html">E-Week Gallery</a>
-                            </li>
+							<li>
+								<a href="gallery.html">E-Club Gallery</a>
+							</li>
+							<li>
+								<a href="e-week-gallery.html">E-Week Gallery</a>
+							</li>
                         </ul>
                     </li>
                     <li>
@@ -98,7 +98,7 @@
                     <li>
                         <a href="http://eclubiitp.blogspot.in">Blog</a>
                     </li>
-                    <li>
+					<li>
                         <a href="media.html">Media</a>
                     </li>
                 </ul>
@@ -123,16 +123,7 @@
           
             
         </div> <!-- End id="header-container" -->
-        <!--------------------floater------------------->
-        <div id="floater">
-            <ul>
-                <li><a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img class="floater_img" src="images/social/fb_float.png" alt="Facebook" title="Facebook" /></a></li>
-                <li><a href="https://twitter.com/iitp_eclub" target="_blank"><img class="floater_img" src="images/social/twitter_float.png" alt="Twitter" title="Twitter" /></a></li>
-                <li><a href="https://plus.google.com/u/0/communities/116727158895303706628" target="_blank"><img class="floater_img" src="images/social/gplus_float.png" alt="Google+" title="Google+" /></a></li>
-                <li><a href="https://www.youtube.com/channel/UCeQ7Tz0Zfn5ziGLQtXEIx4g" target="_blank"><img class="floater_img" src="images/social/youtube_float.png" alt="YouTube" title="YouTube" /></a></li>
-            </ul>
-        </div>
-
+        
         <!-- Home Slider Container -->
         <div id="home-slider-container">
 
@@ -142,7 +133,7 @@
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Lecture by Ministry of MSME</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
-                            Awareness Programme on Development of SMEs through Incubators
+							Awareness Programme on Development of SMEs through Incubators
                         </p>
                     </div>
                 </div>
@@ -155,9 +146,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="home-slider-item">
+				<div class="home-slider-item">
                     <img src="images/img/img8.jpg" alt="Slide 3" />
-                    <div class="slider-caption">
+					<div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Chiraag Kapil</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                             Guest Lecture at IIT Patna
@@ -166,23 +157,23 @@
                 </div>
                 <div class="home-slider-item">
                     <img src="images/img/img6.2.jpg" alt="Slide 3" />
-                    <div class="slider-caption">
+					<div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Mathew Jose ,CEO & Founder Paperman</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                             E-Week 2016
                         </p>
                     </div>
                 </div>
-                <div class="home-slider-item">
+				<div class="home-slider-item">
                     <img src="images/img/img9.jpg" alt="Slide 3" />
-                    <div class="slider-caption">
+					<div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Vikram Rastogi</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                              Founder Hackerlab.in
                         </p>
                     </div>
                 </div>
-                
+				
             </div>
             <div id="slider-controller" class="content-width">
                 <a href="#" id="slider-prev"><i class="icon-angle-left"></i></a>
@@ -199,7 +190,6 @@
             <div style="display:block; padding-top: 15%;">
              
                     
-
 					<p style=" font-size: 250%; text-align:center;">
 					Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
 					</p>
@@ -273,11 +263,11 @@
 
                         </div>
                         <div style="padding-top:10px">
-                            <p><b>24th September 2017</b></p>
+                            <p><b>25th September 2017</b></p>
                         </div>
                         <div>
                             <div style="float:left;margin-right:20px">
-                            <img  src="images/DSCN0863.JPG" alt="img.jpg"  width="350px" height="350px"/>
+                            <img  src="images/DSCN0863.jpg" alt=""  width="350px" height="350px"/>
                             </div>
                             <p>
                                 Dr. Prashant Jha, who serves as the Fellowship Director of Medical Device Innovation Program at AIIMS and IIT Delhi conducted the workshop. Dr Jha is a multidisciplinary expert who trains physicians, engineers, designers and entrepreneurs in the art  and science of innovating and commercialising low-cost, high-impact medical devices. He also serves as visiting faculty in several Medical, Engineering and Business Schools in India, Australia, Finland, Japan, UK and USA. He shared his experiences in setting up over a dozen enterprise over last 20 years and discussed the key lessons learnt on the way. He talked the participants through the steps involved in bringing an idea to market & building a sustainable  enterprises.While giving the vote of thanks, Entrepreneurship club coordinator, Piyush, said that we aim to foster the entrepreneurship spirit among the students in the field of startup.
@@ -293,17 +283,17 @@
                             <h2 class="blog-title">E-Week 2017</h2>
                             </div>
                             <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
-                                                                "An entrepreneur is an innovator, a job creator, a business leader and
-                                someone who is his own boss".<br/></b></font>
+																"An entrepreneur is an innovator, a job creator, a business leader and
+								someone who is his own boss".<br/></b></font>
                             </p>
                             <p>
                                 E-Week events have always been an exciting 
-                                simulation of real business world scenarios. 
-                                It has always been great fun to be a part of both as participants and spectators.
-                                E-Week 17 has modified and rebooted the set of events we used to have.
-                                Here we present to you , the new and improved events for E-Week 2017.
-                                <br>
-                            
+								simulation of real business world scenarios. 
+								It has always been great fun to be a part of both as participants and spectators.
+								E-Week 17 has modified and rebooted the set of events we used to have.
+								Here we present to you , the new and improved events for E-Week 2017.
+								<br>
+							
                             </p>
                             </div>
                                 <!--
@@ -335,9 +325,7 @@
                         <p>
                             Indian Institute of Technology,<br/>
                             Bihta - 801103,<br/>
-
                             Patna <br/>
-
                             Bihar.
                         </p>
                         <ul>
@@ -367,8 +355,6 @@
         <div style="width: 100%; background: black; padding-left: 15%; padding-right: 15%; padding-bottom: 10px;">
                 <div style="color: white" class="large-6 columns less-padding">
                     2017 &copy; E-Club IIT Patna
-
-
                 </div>
                 
                 <div class="large-6 columns less-padding">
