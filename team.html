@@ -14,13 +14,19 @@
         <!--<link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,700|Titillium+Web:400,600' rel='stylesheet' type='text/css'>-->
         <link href="css/reset.css" rel="stylesheet">
         <link href="css/floater.css" rel="stylesheet">
+        <link href="css/calendar.css" rel="stylesheet">
         <link href="css/foundation.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/isotope.css" rel="stylesheet">
         <link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet">
         <link href="css/validationEngine.jquery.css" rel="stylesheet">
         <link href="css/archtek-init.css" rel="stylesheet">
-
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/owl.carousel.css" rel="stylesheet">
+        <link href="css/popuo-box.css" rel="stylesheet">
+         <link href="css/style.css" rel="stylesheet">
+         <link href="css/style.css" rel="stylesheet">
+         <link href="css/font-awesome.min1.css" rel="stylesheet">
         <!--[if IE 8]>
         <link href="css/foundation-ie8.css" rel="stylesheet">
         <link href="css/archtek-ie8.css" rel="stylesheet">
@@ -31,58 +37,54 @@
         <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
-        <!-----------MNgo styling-------------------------->
-        <style>
-        body
-        {
-            background: url(team.jpg); 
-            background-size:1700px 1700px;
-        }
-        #member
-            {   
-            margin:1.5%;
-            display:block;
-            width:200px;
-            float:left;
-            padding:.5%;
-            text-align:center;
+
+		<style>
+		
+		#member
+			{	
+			margin:1.5%;
+			display:block;
+			width:200px;
+			float:left;
+			padding:.5%;
+			text-align:center;
             height:300px;   
-            }
-        #member p
-            {
-            text-align:center;
-            }
-            
-        #member:hover ul
-        {
-        transform:scale(1.2,1.2) translateX(10%);
-        }
-        
-        #founding
-        {
-        margin:5%;
-        text-align:left;
-        color:white;
-        }
-        
-        #founding p
-        {
-        color:white;
-        text-align:center;
-        font-weight:bold;
-        font-size:200%;
-        }
-        #team{
-        width:70%; 
-        margin:auto; 
-        display:block;
-        transition:.4s;
-        }
-        
-        #team:hover{
-        transform:scale(1.05,1.05);
-        box-shadow:5px 5px 15px black;
-        }
+			}
+		#member p
+			{
+			text-align:center;
+			}
+			
+		#member:hover ul
+		{
+		  transform:scale(1.2,1.2) translateX(10%);
+		}
+		
+		#founding
+		{
+    		margin:5%;
+    		text-align:left;
+    		color: black;
+		}
+		
+		#founding h2
+		{
+    		border-bottom: solid 2px orange;
+            width: 70%;
+            margin-bottom: 10px;
+            //text-align: right;
+		}
+
+
+		#team{
+		width:70%; 
+		margin:auto; 
+		display:block;
+		transition:.4s;
+		}
+		
+		
+
         .image-team{
             height:200px;
             width:300px;
@@ -186,6 +188,7 @@
             </div>
         </div>
 
+        <div id="content-container"></div>
             <!-- Page Content -->
         
                 <p style="text-align:center; font-size:400%; padding-top:5%;"><b>Our Team</b></p>
@@ -381,31 +384,28 @@
                             </div>
         </div>
 
-        <div id="founding">
-            <hr>
-        <p>Founding Members</p>
-        <ul>
-                        <li>Dr. Partha Ray (Faculty In-charge)</li>
-                        <li>Chaitanya Kansal (Co-ordinator)</li>
-                        <li>Gurveer Singh Pahuja (Industry Relations Manager)</li>
-                        <li>Abhishek Verma (Media & PR Manager)</li>
-                        <li>Debayan Das (Events Manager)</li>
-                        <li>Ankit Jain (Creative Manager)</li>
-        </ul>
-        </div>
 
-        <div id="founding">
-            <hr>
-        <p>Web Development Team</p>
-        <ul>
-                        <li>Shashwat Tiwari (Web Development Team)</li>
-                        <li>Abhijit Roy (Web Development Team)</li>
-                        <li>Aditya Suman (Web Development Team)</li>
-                        <li>Kshitij S. Jauhri (Web Development Team) </li>
-            
-                        
-        </ul>
-        </div>
+		<div id="founding">
+    		<h2>Founding Members</h2>
+    		<ul>
+                            <li>Dr. Partha Ray (Faculty In-charge)</li>
+                            <li>Chaitanya Kansal (Co-ordinator)</li>
+                            <li>Gurveer Singh Pahuja (Industry Relations Manager)</li>
+                            <li>Abhishek Verma (Media & PR Manager)</li>
+                            <li>Debayan Das (Events Manager)</li>
+                            <li>Ankit Jain (Creative Manager)</li>
+            </ul>
+		</div>
+
+		<div id="founding">
+    		<h2>Web Development Team</h2>
+    		<ul>
+                <li>Shashwat Tiwari</li>
+                <li>Aditya Suman</li>
+                <li>Deepak Kumar</li>
+            </ul>
+		</div>
+
  
         <!-- End id="content-container" -->
 
@@ -450,15 +450,15 @@
         </div> <!-- End id="footer-content-container" -->
 
         <!-- Footer Bar -->
-        <div id="footer-bar-container" class="row">
-            <div id="footer-bar-inner-wrapper" class="content-width">
-                <div class="large-6 columns less-padding">
+        <div style="width: 100%; background: black; padding-left: 15%; padding-right: 15%; padding-bottom: 10px;">
+                <div style="color: white" class="large-6 columns less-padding">
                     2017 &copy; E-Club IIT Patna
-                    <a href="#content-container"><p style="text-align: right; color:green;">Back To Top </p></a>
+
                 </div>
+                
                 <div class="large-6 columns less-padding">
                     <div id="footer-social">
-                        <span>Connect with us:</span>
+                        <span>Connect with us</span>
                         <ul class="bar-social">
                             <li>
                                 <a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img src="images/social/facebook-bw.png" alt="" title="" /><img class="hover" src="images/social/facebook.png" alt="Facebook" title="Facebook" /></a>
@@ -477,9 +477,13 @@
                             </li>
                         </ul>
                     </div>
+                    
                 </div>
+                <br>
+            <div style="width:100%; text-align:center; background: black;">
+                <a class="return" href="#content-container"  style=" color: white; border: solid 2px orange; border-radius: 5px; padding: 4px; ">Back To Top </a>
             </div>
-        </div> <!-- End id="footer-bar-container" -->
+        </div>
 
         <script src="js/jquery-1.9.1.min.js"></script>
         <script src="js/jquery-ui-1.10.2.custom.min.js"></script>
@@ -499,9 +503,7 @@
         <script src="js/jquery.validationEngine.js"></script>
         <script src="js/jquery.scrollUp.min.js"></script>
         <script src="js/archtek.js"></script>
-        
-        
-        <!--------------------floater------------------->
+
         <div id="floater">
             <ul>
                 <li><a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img class="floater_img" src="images/social/fb_float.png" alt="Facebook" title="Facebook" /></a></li>

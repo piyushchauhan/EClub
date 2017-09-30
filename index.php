@@ -1,4 +1,3 @@
-<?php include_once("index.php") ?>
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
@@ -32,20 +31,7 @@
         <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
-        <style>
-            
-            #onhover
-            {
-                   transition: .5s; 
-                
-            }
-            
-            #onhover:hover{
-                
-                box-shadow: 5px 5px 20px black;
-                transform: scale(1.01,1.01);
-            
-        }</style>
+        
     </head>
 
     <body>
@@ -207,17 +193,18 @@
         </div>
         <!-- Finally Completed this -->
 
-        <div id="content-container" class="content-width">
+        <div id="content-container" class="about_eclub content-width">
 
             <!-- Page Intro -->
-            <div style="display:block; padding-top:10%;">
+            <div style="display:block; padding-top: 15%;">
              
                     
-                    <p style=" font-size: 300%; text-align:center;">
-                    Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
-                    </p>
-                    <br>
-                    <br>
+
+					<p style=" font-size: 250%; text-align:center;">
+					Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
+					</p>
+					<br>
+					<br>
                         <p style="font-size:120%;">
                         We, at the <b>Entrepreneurship Club</b>, shall strive to educate ourselves about the nuances involved in
                         entrepreneurship and business in order to prepare ourselves for undertaking the journey from the genesis of
@@ -333,8 +320,7 @@
     </div>
     </div>
         <!-- End of content-container -->
-
-        <!-- Footer Content -->
+ <!-- Footer Content -->
         <div id="footer-content-container">
             <div id="footer-content-inner-wrapper" class="content-width">
                 <div id="footer-content" class="row top-margin">
@@ -349,7 +335,9 @@
                         <p>
                             Indian Institute of Technology,<br/>
                             Bihta - 801103,<br/>
-                            Patna<br/>
+
+                            Patna <br/>
+
                             Bihar.
                         </p>
                         <ul>
@@ -374,16 +362,18 @@
             </div>
         </div> <!-- End id="footer-content-container" -->
 
+
         <!-- Footer Bar -->
-        <div id="footer-bar-container" class="row">
-            <div id="footer-bar-inner-wrapper" class="content-width">
-                <div class="large-6 columns less-padding">
+        <div style="width: 100%; background: black; padding-left: 15%; padding-right: 15%; padding-bottom: 10px;">
+                <div style="color: white" class="large-6 columns less-padding">
                     2017 &copy; E-Club IIT Patna
-                    <a href="#content-container"><p style="text-align: right; color:green;">Back To Top </p></a>
+
+
                 </div>
+                
                 <div class="large-6 columns less-padding">
                     <div id="footer-social">
-                        <span>Connect with us:</span>
+                        <span>Connect with us</span>
                         <ul class="bar-social">
                             <li>
                                 <a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img src="images/social/facebook-bw.png" alt="" title="" /><img class="hover" src="images/social/facebook.png" alt="Facebook" title="Facebook" /></a>
@@ -402,9 +392,13 @@
                             </li>
                         </ul>
                     </div>
+                    
                 </div>
+                <br>
+            <div style="width:100%; text-align:center; background: black;">
+                <a class="return" href="#content-container"  style=" color: white; border: solid 2px orange; border-radius: 5px; padding: 4px; ">Back To Top </a>
             </div>
-        </div> <!-- End id="footer-bar-container" -->
+        </div>
 
         <script src="js/jquery-1.9.1.min.js"></script>
         <script src="js/jquery-ui-1.10.2.custom.min.js"></script>
@@ -425,5 +419,19 @@
         <script src="js/jquery.scrollUp.min.js"></script>
         <script src="js/archtek.js"></script>
 
-    </body>
+        <script>
+            $('.return').click(function(e)
+            {
+               
+                var pos = $(this).attr('href');
+               
+                $('html, body').animate(
+                {
+                    scrollTop: $(pos).offset().top-$(pos).offset().top
+                }, 1000);
+
+                //e.preventDefault();
+            });
+        </script>
+    </body> 
 </html>
