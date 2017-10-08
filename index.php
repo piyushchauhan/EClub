@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <META NAME="description" CONTENT="Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna">
-        <META NAME="keywords" CONTENT="IIT Patna, EClub, Entrepreneurship, IIT, MNgo, Club, Business ">
+        <META NAME="keywords" CONTENT="IIT Patna, EClub, Entrepreneurship, IIT, MNgo, Club, Business,Patna,IITP ">
         <META NAME="robot" CONTENT="index,follow">
         <META NAME="author" CONTENT="Aditya Suman, Shashwat Tiwari, Deepak Kumar">
         <META NAME="generator" CONTENT="www.mngo.in">
