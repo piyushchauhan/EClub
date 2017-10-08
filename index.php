@@ -1,12 +1,15 @@
-<?php include_once("index.php") ?>
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
     <head>
         <meta charset="utf-8" />
-
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
+        <META NAME="description" CONTENT="Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna">
+        <META NAME="keywords" CONTENT="IIT Patna, EClub, Entrepreneurship, IIT, MNgo, Club, Business ">
+        <META NAME="robot" CONTENT="index,follow">
+        <META NAME="author" CONTENT="Aditya Suman, Shashwat Tiwari, Deepak Kumar">
+        <META NAME="generator" CONTENT="www.mngo.in">
+        <META NAME="language" CONTENT="English">
         <title>E-Club | IIT Patna</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
 
@@ -32,6 +35,7 @@
         <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
+        
     </head>
 
     <body>
@@ -85,7 +89,7 @@
 						<ul>
                            
 							<li>
-								<a href="Gallery.html">E-Club Gallery</a>
+								<a href="gallery.html">E-Club Gallery</a>
 							</li>
 							<li>
 								<a href="e-week-gallery.html">E-Week Gallery</a>
@@ -123,16 +127,7 @@
           
             
         </div> <!-- End id="header-container" -->
-        <!--------------------floater------------------->
-        <div id="floater">
-            <ul>
-                <li><a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img class="floater_img" src="images/social/fb_float.png" alt="Facebook" title="Facebook" /></a></li>
-                <li><a href="https://twitter.com/iitp_eclub" target="_blank"><img class="floater_img" src="images/social/twitter_float.png" alt="Twitter" title="Twitter" /></a></li>
-                <li><a href="https://plus.google.com/u/0/communities/116727158895303706628" target="_blank"><img class="floater_img" src="images/social/gplus_float.png" alt="Google+" title="Google+" /></a></li>
-                <li><a href="https://www.youtube.com/channel/UCeQ7Tz0Zfn5ziGLQtXEIx4g" target="_blank"><img class="floater_img" src="images/social/youtube_float.png" alt="YouTube" title="YouTube" /></a></li>
-            </ul>
-        </div>
-
+        
         <!-- Home Slider Container -->
         <div id="home-slider-container">
 
@@ -193,13 +188,13 @@
         </div>
         <!-- Finally Completed this -->
 
-        <div id="content-container" class="content-width">
+        <div id="content-container" class="about_eclub content-width">
 
             <!-- Page Intro -->
-            <div style="display:block; padding-top:10%;">
+            <div style="display:block; padding-top: 15%;">
              
                     
-					<p style=" font-size: 300%; text-align:center;">
+					<p style=" font-size: 250%; text-align:center;">
 					Welcome to the Entrepreneurship Club Of Indian Institute of Technology Patna
 					</p>
 					<br>
@@ -211,9 +206,6 @@
                         to learn from each other and from the experiences of people who have undertaken this journey in the past.
                         </p>
                         <br/>
-                        <p id="showEvents" style="background:white; height:171px; float:right; width:100%; padding-left:10px; font-family:Calibri; padding-right:10px; text-align:justify">
-                            No Events in this period
-                        </p>
              </div>
                     
             
@@ -265,50 +257,64 @@
             </div>
 
             <!-- Blog -->
-            <div class="row top-margin">
-                <div class="large-12 columns bottom-line">
-                    <h3 class="no-margin">News Update.</h3>
-                    <!--<a href="blog-list.html" class="bottom-right angle flat button">View all news<span class="angle"><i class="icon-angle-right"></i></span></a>-->
+
+            <div class="row">
+                <div class="right-border row">
+                    <div class="large-12 columns">
+                        <div class="bottom-line">
+                            <h2 class="blog-title">Workshop on Commercializing Technology Innovations</h2>
+                            
+
+                        </div>
+                        <div style="padding-top:10px">
+                            <p><b>25th September 2017</b></p>
+                        </div>
+                        <div>
+                            <div style="float:left;margin-right:20px">
+                            <img  src="images/DSCN0863.jpg" alt=""  width="350px" height="350px"/>
+                            </div>
+                            <p>
+                                Dr. Prashant Jha, who serves as the Fellowship Director of Medical Device Innovation Program at AIIMS and IIT Delhi conducted the workshop. Dr Jha is a multidisciplinary expert who trains physicians, engineers, designers and entrepreneurs in the art  and science of innovating and commercialising low-cost, high-impact medical devices. He also serves as visiting faculty in several Medical, Engineering and Business Schools in India, Australia, Finland, Japan, UK and USA. He shared his experiences in setting up over a dozen enterprise over last 20 years and discussed the key lessons learnt on the way. He talked the participants through the steps involved in bringing an idea to market & building a sustainable  enterprises.While giving the vote of thanks, Entrepreneurship club coordinator, Piyush, said that we aim to foster the entrepreneurship spirit among the students in the field of startup.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="blog-item no-border large-12 columns for-nested">
+            <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
-                            <div class="blog-meta">
-                                <span class="date">Mar 23, 2017</span>
+                            <div class="bottom-line">
+                            <h2 class="blog-title">E-Week 2017</h2>
                             </div>
-                            <hr />
-                            <h4 class="blog-title">E-Week 2017</h4>
-                            <p class="excerpt"><b><font size="4">&nbsp&nbsp
+                            <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
 																"An entrepreneur is an innovator, a job creator, a business leader and
-								someone who is his own boss".<br/><br/></b></font>E-Week events have always been an exciting 
+								someone who is his own boss".<br/></b></font>
+                            </p>
+                            <p>
+                                E-Week events have always been an exciting 
 								simulation of real business world scenarios. 
 								It has always been great fun to be a part of both as participants and spectators.
 								E-Week 17 has modified and rebooted the set of events we used to have.
 								Here we present to you , the new and improved events for E-Week 2017.
 								<br>
-							<a href="http://entrepreneurshipclub.org/eweek.html">Visit here </a>
+							
                             </p>
+                            </div>
+                                <!--
+                                <div class="row">
+                                    <div class="large-offset-3 large-6 columns height-255">
+                                        <img src="images/events/eweek.jpg" alt=""  />
+                                    </div>
+                                </div>-->
+                            </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="large-offset-3 large-6 columns height-255">
-                            <img src="images/events/eweek.jpg" alt=""  />
-                        </div>
-                    </div>
-                </div>
-                
             </div>
-
-        </div>
-    </div>
     </div>
     </div>
     </div>
         <!-- End of content-container -->
-
-        <!-- Footer Content -->
+ <!-- Footer Content -->
         <div id="footer-content-container">
             <div id="footer-content-inner-wrapper" class="content-width">
                 <div id="footer-content" class="row top-margin">
@@ -322,13 +328,13 @@
                         <h5>Contact Us</h5>
                         <p>
                             Indian Institute of Technology,<br/>
-							Bihta - 801103,<br/>
-							Patna<br/>
-							Bihar.
+                            Bihta - 801103,<br/>
+                            Patna <br/>
+                            Bihar.
                         </p>
                         <ul>
                             <li>
-                                Mobile: +91-9631089254
+                                Mobile: +91-9792097500
                             </li>
                             <li>
                                 Email: <a href="#">entrepreneurship@iitp.ac.in</a>
@@ -338,9 +344,9 @@
                     <div class="large-4 columns less-padding">
                         <h5>Join Us.</h5>
                         <p>
-							"The value of an idea lies in the using of it."<br/><br/>
+                            "The value of an idea lies in the using of it."<br/><br/>
                             If you share the same zeal and are passionate about achieving your vision
-							join us in our efforts to help others achieve the same.
+                            join us in our efforts to help others achieve the same.
                         </p>
                        
                     </div>
@@ -348,16 +354,16 @@
             </div>
         </div> <!-- End id="footer-content-container" -->
 
+
         <!-- Footer Bar -->
-        <div id="footer-bar-container" class="row">
-            <div id="footer-bar-inner-wrapper" class="content-width">
-                <div class="large-6 columns less-padding">
+        <div style="width: 100%; background: black; padding-left: 15%; padding-right: 15%; padding-bottom: 10px;">
+                <div style="color: white" class="large-6 columns less-padding">
                     2017 &copy; E-Club IIT Patna
-					<a href="#content-container"><p style="text-align: right; color:green;">Back To Top </p></a>
                 </div>
+                
                 <div class="large-6 columns less-padding">
                     <div id="footer-social">
-                        <span>Connect with us:</span>
+                        <span>Connect with us</span>
                         <ul class="bar-social">
                             <li>
                                 <a href="https://www.facebook.com/iitp.entrepreneurship" target="_blank"><img src="images/social/facebook-bw.png" alt="" title="" /><img class="hover" src="images/social/facebook.png" alt="Facebook" title="Facebook" /></a>
@@ -376,9 +382,13 @@
                             </li>
                         </ul>
                     </div>
+                    
                 </div>
+                <br>
+            <div style="width:100%; text-align:center; background: black;">
+                <a class="return" href="#content-container"  style=" color: white; border: solid 2px orange; border-radius: 5px; padding: 4px; ">Back To Top </a>
             </div>
-        </div> <!-- End id="footer-bar-container" -->
+        </div>
 
         <script src="js/jquery-1.9.1.min.js"></script>
         <script src="js/jquery-ui-1.10.2.custom.min.js"></script>
@@ -399,5 +409,19 @@
         <script src="js/jquery.scrollUp.min.js"></script>
         <script src="js/archtek.js"></script>
 
-    </body>
+        <script>
+            $('.return').click(function(e)
+            {
+               
+                var pos = $(this).attr('href');
+               
+                $('html, body').animate(
+                {
+                    scrollTop: $(pos).offset().top-$(pos).offset().top
+                }, 1000);
+
+                //e.preventDefault();
+            });
+        </script>
+    </body> 
 </html>

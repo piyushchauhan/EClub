@@ -1131,16 +1131,6 @@ span.sf-sub-indicator {
    	-o-transition: border-color .2s ease-in-out;
 }
 
-.gallery-item:hover {
-	border: inset;
-    box-shadow: 5px 5px 20px black;
-    transform: scale(1.5,1.5);
-    transition: .5s;
-}
-
-
-
-
 /***** Footer *****/
 #footer-content-container {
 	/*background: #202020;*/
@@ -1277,11 +1267,6 @@ span.sf-sub-indicator {
     transition: .5s;
 }
 
-.blog-item:hover{
-
- transform: scale(1.1,1.1);
-box-shadow: 5px 5px 20px black;
-}
 
 .blog-item.no-border {
 	border: none;

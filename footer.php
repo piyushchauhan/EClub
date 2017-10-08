@@ -18,7 +18,7 @@
                         </p>
                         <ul>
                             <li>
-                                Mobile: +91-8603251503
+                                Mobile: +91-9792097500
                             </li>
                             <li>
                                 Email: <a href="#">entrepreneurship@iitp.ac.in</a>
