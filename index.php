@@ -334,7 +334,7 @@
                         </p>
                         <ul>
                             <li>
-                                Mobile: +91-9792097500
+                                Mobile: +91-7980183647
                             </li>
                             <li>
                                 Email: <a href="#">entrepreneurship@iitp.ac.in</a>
@@ -378,6 +378,7 @@
                                 <a href="#" target="_blank"><img src="images/social/linkedin-bw.png" alt="" title="" /><img class="hover" src="images/social/linkedin.png" alt="LinkedIn" title="LinkedIn" /></a>
                             </li>-->
                             <li>
+                                
                                 <a href="https://www.youtube.com/channel/UCeQ7Tz0Zfn5ziGLQtXEIx4g" target="_blank"><img src="images/social/youtube-bw.png" alt="" title="" /><img class="hover" src="images/social/youtube.png" alt="YouTube" title="YouTube" /></a>
                             </li>
                         </ul>
