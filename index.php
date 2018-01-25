@@ -256,6 +256,41 @@
                 </div>
             </div>
 
+
+             <div class="row" style="margin-top: 25px">
+                    <div class="right-border row">
+                        <div class="large-12 columns">
+                            <div class="bottom-line">
+                            <h2 class="blog-title">In-House Session 2018</h2>
+                            </div>
+                            <div style="padding-top:10px">
+                            <p><b>21st January 2018</b></p>
+                        </div>
+                            <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
+                                                                “Chase the vision, not the money; the money will end up following you.”<br/></b></font>
+                            </p>
+                            <p>
+                                 Like always a stupendous event was presented by IIT Patna's E-Club. The session was too much interactive. The major point was about the things we need to start a startup, Many of the important point's including timing, Idea were discussed. Concept of MVP(Minimum Viable Product) and it's utility were introduced, As they are a major point of starting a better startup. Summarising , It was a session to introduce newbies to starting a startup.  
+
+                             <br><br>
+                            <img src="images/inhouse3.jpg" alt="" width="450px" height="400px" align="center" />
+                  
+                            <img src="images/inhouse.jpg" alt="" width="450px" height="400px" align="right" />
+                        </p>
+                            </div>
+                                <!--
+                                <div class="row">
+                                    <div class="large-offset-3 large-6 columns height-255">
+                                        <img src="images/events/eweek.jpg" alt=""  />
+                                    </div>
+                                </div>-->
+                            </div>
+                        </div>
+                 
+           
+    <br>
+
+
             <!-- Blog -->
 
             <div class="row">
@@ -313,6 +348,8 @@
     </div>
     </div>
     </div>
+
+          
         <!-- End of content-container -->
  <!-- Footer Content -->
         <div id="footer-content-container">
