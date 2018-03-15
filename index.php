@@ -255,8 +255,45 @@
 
                 </div>
             </div>
+            <a href="others.html">
+<div class="row" style="margin-top: 25px">
+                    <div class="right-border row">
+                        <div class="large-12 columns">
+                            <div class="bottom-line">
+                            <h2 class="blog-title">E-Week 2018</h2>
+                            </div>
+                            <div style="padding-top:10px">
+                            <p><b>23-25 March 2018</b></p>
+                        </div>
+                        <p class="excerpt" align="center" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
+                                                            “An entrepreneur is an innovator, a job creator, a business leader and
+								someone who is his own boss.”<br/></b></font>
+                        </p>
+                  
+                        <br/>
+                        <div style="float:right;margin-right:20px;max-height: 400px;overflow: hidden">
+                            <img  src="images/general.jpg" alt=""  width="280px" height="400px"/>
+                            </div>
+                    	<p class="large-7 columns" style ="padding-left:70px;padding-top: 70px">
+                    			The Entrepreneurship Club of IIT Patna presents you the E-Week - the most celebrated event of the club. E-Week 
+                    			is the most recognised event of the Entrepreneurship club of IIT Patna where the club on an annual basis unites 
+                    			to foster the spirit of Entrepreneurship among the students. 
+	                            E-Week events have always been an exciting 
+								simulation of real business world scenarios. 
+								It has always been great fun to be a part of both as participants and spectators.
+								E-Week 18 has modified and rebooted the set of events we used to have.
+								Here we present to you , the new and improved events for E-Week 2018.
+							
 
-
+	                         <br><br>
+	                        
+	              
+	                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+            </a>
              <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
@@ -266,26 +303,20 @@
                             <div style="padding-top:10px">
                             <p><b>21st January 2018</b></p>
                         </div>
-                            <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
-                                                                “Chase the vision, not the money; the money will end up following you.”<br/></b></font>
-                            </p>
-                            <p>
-                                 Like always a stupendous event was presented by IIT Patna's E-Club. The session was too much interactive. The major point was about the things we need to start a startup, Many of the important point's including timing, Idea were discussed. Concept of MVP(Minimum Viable Product) and it's utility were introduced, As they are a major point of starting a better startup. Summarising , It was a session to introduce newbies to starting a startup.  
-
-                             <br><br>
-                            <img src="images/inhouse3.jpg" alt="" width="450px" height="400px" align="center" />
-                  
-                            <img src="images/inhouse.jpg" alt="" width="450px" height="400px" align="right" />
+                        <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
+                                                            “Chase the vision, not the money; the money will end up following you.”<br/></b></font>
                         </p>
-                            </div>
-                                <!--
-                                <div class="row">
-                                    <div class="large-offset-3 large-6 columns height-255">
-                                        <img src="images/events/eweek.jpg" alt=""  />
-                                    </div>
-                                </div>-->
-                            </div>
-                        </div>
+                    	<p>
+	                             Like always a stupendous event was presented by IIT Patna's E-Club. The session was too much interactive. The major point was about the things we need to start a startup, Many of the important point's including timing, Idea were discussed. Concept of MVP(Minimum Viable Product) and it's utility were introduced, As they are a major point of starting a better startup. Summarising , It was a session to introduce newbies to starting a startup.  
+
+	                         <br><br>
+	                        <img src="images/inhouse3.jpg" alt="" width="450px" height="400px" align="center" />
+	              
+	                        <img src="images/inhouse.jpg" alt="" width="450px" height="400px" align="right" />
+                        </p>
+                    </div>
+                </div>
+            </div>
                  
            
     <br>
@@ -315,36 +346,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row" style="margin-top: 25px">
-                    <div class="right-border row">
-                        <div class="large-12 columns">
-                            <div class="bottom-line">
-                            <h2 class="blog-title">E-Week 2017</h2>
-                            </div>
-                            <p class="excerpt" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
-																"An entrepreneur is an innovator, a job creator, a business leader and
-								someone who is his own boss".<br/></b></font>
-                            </p>
-                            <p>
-                                E-Week events have always been an exciting 
-								simulation of real business world scenarios. 
-								It has always been great fun to be a part of both as participants and spectators.
-								E-Week 17 has modified and rebooted the set of events we used to have.
-								Here we present to you , the new and improved events for E-Week 2017.
-								<br>
-							
-                            </p>
-                            </div>
-                                <!--
-                                <div class="row">
-                                    <div class="large-offset-3 large-6 columns height-255">
-                                        <img src="images/events/eweek.jpg" alt=""  />
-                                    </div>
-                                </div>-->
-                            </div>
-                        </div>
-                    </div>
-            </div>
+            
     </div>
     </div>
     </div>
