@@ -255,12 +255,14 @@
 
                 </div>
             </div>
-            <a href="others.html">
+            
 <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
                             <div class="bottom-line">
+                            <a href="others.html">
                             <h2 class="blog-title">E-Week 2018</h2>
+                            </a>
                             </div>
                             <div style="padding-top:10px">
                             <p><b>23-25 March 2018</b></p>
@@ -274,7 +276,7 @@
                         <div style="float:right;margin-right:20px;max-height: 400px;overflow: hidden">
                             <img  src="images/general.jpg" alt=""  width="280px" height="400px"/>
                             </div>
-                    	<p class="large-7 columns" style ="padding-left:70px;padding-top: 70px">
+                    	<p class="large-7 columns" style ="padding-left:70px;padding-top: 20px">
                     			The Entrepreneurship Club of IIT Patna presents you the E-Week - the most celebrated event of the club. E-Week 
                     			is the most recognised event of the Entrepreneurship club of IIT Patna where the club on an annual basis unites 
                     			to foster the spirit of Entrepreneurship among the students. 
@@ -285,15 +287,18 @@
 								Here we present to you , the new and improved events for E-Week 2018.
 							
 
-	                         <br><br>
+	                         <br/><br/><br/>
 	                        
 	              
-	                        
+	                        <a href="https://goo.gl/forms/5WzYEimpnDV5vBAv1"><button type="button" class="btn btn-primary">Register for E-Week'18</button></a>
+                            
+
+
                         </p>
                     </div>
                 </div>
             </div>
-            </a>
+           
              <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
