@@ -292,7 +292,7 @@
 	              
 	                        <a href="https://goo.gl/forms/5WzYEimpnDV5vBAv1"><button type="button" class="btn btn-primary">Register for E-Week'18</button></a>
                             
-                            <a href="E-Week'18-event-rules.pdf"><button type="button" class="btn btn-success" style="margin-left: 40px">E-Week'18 Rulebook</button></a>
+                            <a href="E-Week'18_RuleBook.pdf"><button type="button" class="btn btn-success" style="margin-left: 40px">E-Week'18 Rulebook</button></a>
 
                         </p>
                     </div>
