@@ -342,7 +342,7 @@
                         </div>
                         <div>
                             <div style="float:left;margin-right:20px">
-                            <img  src="images/DSCN0863.jpg" alt="images/prashant.jpg"  width="300px" height="150px"/>
+                            <img  src="images/prashant.jpg" alt=""  width="300px" height="150px"/>
                             </div>
                             <p>
                                 Dr. Prashant Jha, who serves as the Fellowship Director of Medical Device Innovation Program at AIIMS and IIT Delhi conducted the workshop. Dr Jha is a multidisciplinary expert who trains physicians, engineers, designers and entrepreneurs in the art  and science of innovating and commercialising low-cost, high-impact medical devices. He also serves as visiting faculty in several Medical, Engineering and Business Schools in India, Australia, Finland, Japan, UK and USA. He shared his experiences in setting up over a dozen enterprise over last 20 years and discussed the key lessons learnt on the way. He talked the participants through the steps involved in bringing an idea to market & building a sustainable  enterprises.While giving the vote of thanks, Entrepreneurship club coordinator, Piyush, said that we aim to foster the entrepreneurship spirit among the students in the field of startup.
