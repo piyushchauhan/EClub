@@ -133,7 +133,34 @@
 
             <div id="home-slider">
                 <div class="home-slider-item">
-                    <img src="images/img/img5.2.jpg" alt="Slide 1" />
+                    <img src="images/eweek18_images/rsz_joseph.jpg" alt="Slide 1" />
+                    <div class="slider-caption">
+                        <h2 style="text-shadow: 1px 1px 2px white;">Joseph. P. Arackalan </h2>
+                        <p style="text-shadow: 1px 1px 2px white;">
+                            E-Week'18 - Inauguration Ceremony
+                        </p>
+                    </div>
+                </div>
+                <div class="home-slider-item">
+                    <img src="images/eweek18_images/inaug1.jpg" alt="Slide 2" />
+                    <div class="slider-caption">
+                        <h2 style="text-shadow: 1px 1px 2px white;">E-Week'18 Inauguration Ceremony</h2>
+                        <p style="text-shadow: 1px 1px 2px white;">
+                            Guest Lecture by Joseph. P. Arackalan 
+                        </p>
+                    </div>
+                </div>
+                <div class="home-slider-item">
+                    <img src="images/eweek18_images/core-commitee-cmp.jpg" alt="Slide 4" />
+                    <div class="slider-caption">
+                        <h2 style="text-shadow: 1px 1px 2px white;">E-Week'18 Inauguration Ceremony</h2>
+                        <p style="text-shadow: 1px 1px 2px white;">
+                            Core Committee - 2018
+                        </p>
+                    </div>
+                </div> 
+                <div class="home-slider-item">
+                    <img src="images/img/img5.2.jpg" alt="Slide 3" />
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Lecture by Ministry of MSME</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
@@ -141,33 +168,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="home-slider-item">
-                    <img src="images/img/img7.2.jpg" alt="Slide 2" />
-                    <div class="slider-caption">
-                        <h2 style="text-shadow: 1px 1px 2px white;">Chiraag Kapil </h2>
-                        <p style="text-shadow: 1px 1px 2px white;">
-                            Guest Lecture at IIT Patna
-                        </p>
-                    </div>
-                </div>
-				<div class="home-slider-item">
-                    <img src="images/img/img8.jpg" alt="Slide 3" />
-					<div class="slider-caption">
-                        <h2 style="text-shadow: 1px 1px 2px white;">Chiraag Kapil</h2>
-                        <p style="text-shadow: 1px 1px 2px white;">
-                            Guest Lecture at IIT Patna
-                        </p>
-                    </div>
-                </div>
-                <div class="home-slider-item">
-                    <img src="images/img/img6.2.jpg" alt="Slide 3" />
-					<div class="slider-caption">
-                        <h2 style="text-shadow: 1px 1px 2px white;">Mathew Jose ,CEO & Founder Paperman</h2>
-                        <p style="text-shadow: 1px 1px 2px white;">
-                            E-Week 2016
-                        </p>
-                    </div>
-                </div>
+                
+				
+                
 				<div class="home-slider-item">
                     <img src="images/img/img9.jpg" alt="Slide 3" />
 					<div class="slider-caption">
@@ -212,20 +215,21 @@
 
 
             <!-- Testimonial Slider -->
+            <!--
             <div class="row top-margin no-bg">
                 <div class="large-12 columns no-padding">
 
                     <div class="testimonial-wrapper">
                         <div class="testimonial-inner">
                             <div class="testimonial-list">
-                                <div>
-                                    <blockquote>
-                                        <p>
+                                <div >
+                                    <blockquote > 
+                                        <p >
                                             When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
                                         </p>
                                         <cite> Audre Lorde </cite>
                                     </blockquote>
-                                    <img src="images/img/test1.jpg" alt="" />
+                                    
                                 </div>
                                 <div>
                                     <blockquote>
@@ -234,7 +238,7 @@
                                         </p>
                                         <cite> Mark Twain </cite>
                                     </blockquote>
-                                    <img src="images/img/test2.jpg" alt="" />
+                                   
                                 </div>
                                 <div>
                                     <blockquote>
@@ -255,7 +259,7 @@
 
                 </div>
             </div>
-            
+            -->
 <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
@@ -267,16 +271,19 @@
                             <div style="padding-top:10px">
                             <p><b>23-25 March 2018</b></p>
                         </div>
-                        <p class="excerpt" align="center" style="margin-top: 25px"><b><font size="4">&nbsp&nbsp
-                                                            “An entrepreneur is an innovator, a job creator, a business leader and
-								someone who is his own boss.”<br/></b></font>
-                        </p>
+                       
                   
                         <br/>
                         <div style="float:right;margin-right:20px;max-height: 400px;overflow: hidden">
-                            <img  src="images/general.jpg" alt=""  width="280px" height="400px"/>
+                            <img  src="images/eweek18_images/general.jpg" alt=""  width="280px" height="400px"/>
                             </div>
-                    	<p class="large-7 columns" style ="padding-left:70px;padding-top: 20px">
+                            <br/>
+                             <p class="excerpt" align="center" ><b><font size="4">&nbsp&nbsp
+                                                            “An entrepreneur is an innovator, a job creator, a business leader and
+                                someone who is his own boss.”<br/></b></font>
+                            <br/><br/>
+                        </p>
+                    	<p class="large-8 columns" style ="padding-left:70px;padding-top: 20px">
                     			The Entrepreneurship Club of IIT Patna presents you the E-Week - the most celebrated event of the club. E-Week 
                     			is the most recognised event of the Entrepreneurship club of IIT Patna where the club on an annual basis unites 
                     			to foster the spirit of Entrepreneurship among the students. 
@@ -287,16 +294,30 @@
 								Here we present to you , the new and improved events for E-Week 2018.
 							
 
-	                         <br/><br/><br/><br/>
-	                        
-	              
-	                        <a href="https://goo.gl/forms/5WzYEimpnDV5vBAv1"><button type="button" class="btn btn-primary">Register for E-Week'18</button></a>
-                            
-                            <a href="E-Week'18_RuleBook.pdf"><button type="button" class="btn btn-success" style="margin-left: 40px">E-Week'18 Rulebook</button></a>
+                        </p>
 
+                    </div>
+                    <div class="container-fluid">
+                        <h3 align="center"> E-Week'18 Inauguration Ceremony </h3>
+                        <h5 align="center"> 23rd March, 2018 </h5>
+                    <div class="large-5 columns" style="float:left;max-height: 500px;overflow: hidden">
+                            <img  src="images/eweek18_images/joseph.jpg" alt=""  width="700px" />
+                            </div>
+                    <p class="large-7 columns" >
+                            E-Week'18 Inauguration Ceremony was carried out harmoniously on 23rd March. The occassion was made special by the honourable presence of Dr. Mayank Tiwari, Associate Professor - IIT Patna, Dr. Pramod Kumar Tiwari Assistant Professor - IIT Patna, Dr. Akhilendra Singh Associate Professor - IIT Patna, Dr. Sanjeev Kumar Assistant Professor - IIT Patna and Professor Incharge - Entrepreneurship Club IIT Patna, along with the E-Club Members under the lead of Mr. Piyush Agarwal. 
+                            To grace the occassion there was a guest talk by Mr.Joseph P Arackalan - Manager at Incubation Center IIT Patna. With the lighting of the lamp, we mark the commencement of another version of entrepreneurial extravaganza - E-Week'18.  
                         </p>
                     </div>
+                        <div>
+                        <a href="https://goo.gl/forms/5WzYEimpnDV5vBAv1" class="large-3 columns"><button type="button" class="btn btn-primary">Register for E-Week'18</button></a>
+                            
+                            <a href="E-Week'18_RuleBook.pdf" class="large-3 columns"><button type="button" class="btn btn-success" >E-Week'18 Rulebook</button></a>
+                             <a href="others.html" class="large-3 columns"><button type="button" class="btn btn-warning" >E-Week'18 Events</button></a>
+                            
+                            <a href="e-week-gallery.html" class="large-3 columns"><button type="button" class="btn btn-danger">E-Week'18 Gallery</button></a>
+                        </div>
                 </div>
+
             </div>
            
              <div class="row" style="margin-top: 25px">
