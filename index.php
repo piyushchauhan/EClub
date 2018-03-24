@@ -26,9 +26,9 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/owl.carousel.css" rel="stylesheet">
         <link href="css/popuo-box.css" rel="stylesheet">
-         <link href="css/style.css" rel="stylesheet">
-         <link href="css/style.css" rel="stylesheet">
-         <link href="css/font-awesome.min1.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/font-awesome.min1.css" rel="stylesheet">
 
         <script src="js/custom.modernizr.js"></script>
         
@@ -133,7 +133,7 @@
 
             <div id="home-slider">
                 <div class="home-slider-item">
-                    <img src="images/eweek18_images/rsz_joseph.jpg" alt="Slide 1" />
+                    <img src="images/eweek18_images/rsz_joseph_comp.jpg" alt="Slide 1" />
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">Joseph. P. Arackalan </h2>
                         <p style="text-shadow: 1px 1px 2px white;">
@@ -141,9 +141,8 @@
                         </p>
                     </div>
                 </div>
-                
                 <div class="home-slider-item">
-                    <img src="images/eweek18_images/inaug1.JPG" alt="Slide 2" />
+                    <img src="images/eweek18_images/inaug1_comp.jpg" alt="Slide 2" />
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">E-Week'18 Inauguration Ceremony</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
@@ -261,7 +260,7 @@
                 </div>
             </div>
             -->
-<div class="row" style="margin-top: 25px">
+            <div class="row" style="margin-top: 25px">
                     <div class="right-border row">
                         <div class="large-12 columns">
                             <div class="bottom-line">
@@ -302,7 +301,7 @@
                         <h3 align="center"> E-Week'18 Inauguration Ceremony </h3>
                         <h5 align="center"> 23rd March, 2018 </h5>
                     <div class="large-5 columns" style="float:left;max-height: 500px;overflow: hidden">
-                            <img  src="images/eweek18_images/joseph.JPG" alt=""   />
+                            <img  src="images/eweek18_images/joseph.jpg" alt=""   />
                             </div>
                     <p class="large-7 columns" >
                             E-Week'18 Inauguration Ceremony was carried out harmoniously on 23rd March. The occassion was made special by the honourable presence of Dr. Mayank Tiwari, Associate Professor - IIT Patna, Dr. Pramod Kumar Tiwari Assistant Professor - IIT Patna, Dr. Akhilendra Singh Associate Professor - IIT Patna, Dr. Sanjeev Kumar Assistant Professor - IIT Patna and Professor Incharge - Entrepreneurship Club IIT Patna, along with the E-Club Members under the lead of Mr. Piyush Agarwal. 
