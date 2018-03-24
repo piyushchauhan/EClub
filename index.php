@@ -141,6 +141,7 @@
                         </p>
                     </div>
                 </div>
+                <!--
                 <div class="home-slider-item">
                     <img src="images/eweek18_images/inaug1.jpg" alt="Slide 2" />
                     <div class="slider-caption">
@@ -149,7 +150,7 @@
                             Guest Lecture by Joseph. P. Arackalan 
                         </p>
                     </div>
-                </div>
+                </div>-->
                 <div class="home-slider-item">
                     <img src="images/eweek18_images/core-commitee-cmp.jpg" alt="Slide 4" />
                     <div class="slider-caption">
@@ -301,7 +302,7 @@
                         <h3 align="center"> E-Week'18 Inauguration Ceremony </h3>
                         <h5 align="center"> 23rd March, 2018 </h5>
                     <div class="large-5 columns" style="float:left;max-height: 500px;overflow: hidden">
-                            <img  src="images/eweek18_images/joseph.jpg" alt=""  width="700px" />
+                            <img  src="images/eweek18_images/joseph.jpg" alt=""   />
                             </div>
                     <p class="large-7 columns" >
                             E-Week'18 Inauguration Ceremony was carried out harmoniously on 23rd March. The occassion was made special by the honourable presence of Dr. Mayank Tiwari, Associate Professor - IIT Patna, Dr. Pramod Kumar Tiwari Assistant Professor - IIT Patna, Dr. Akhilendra Singh Associate Professor - IIT Patna, Dr. Sanjeev Kumar Assistant Professor - IIT Patna and Professor Incharge - Entrepreneurship Club IIT Patna, along with the E-Club Members under the lead of Mr. Piyush Agarwal. 
