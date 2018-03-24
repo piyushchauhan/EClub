@@ -141,16 +141,16 @@
                         </p>
                     </div>
                 </div>
-                <!--
+                
                 <div class="home-slider-item">
-                    <img src="images/eweek18_images/inaug1.jpg" alt="Slide 2" />
+                    <img src="images/eweek18_images/inaug1.JPG" alt="Slide 2" />
                     <div class="slider-caption">
                         <h2 style="text-shadow: 1px 1px 2px white;">E-Week'18 Inauguration Ceremony</h2>
                         <p style="text-shadow: 1px 1px 2px white;">
                             Guest Lecture by Joseph. P. Arackalan 
                         </p>
                     </div>
-                </div>-->
+                </div>
                 <div class="home-slider-item">
                     <img src="images/eweek18_images/core-commitee-cmp.jpg" alt="Slide 4" />
                     <div class="slider-caption">
